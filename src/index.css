@@ -1,0 +1,19 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@300&display=swap');
+
+
+body {
+background-color:#131722;
+font-family:'Montserrat Alternates';
+color: #fff;
+}
+
+ul{
+    list-style: none;
+    margin-top: 20px;
+    margin-left: 0;
+}
+ul li{
+    color: white;
+    margin-bottom: 10px;
+}
